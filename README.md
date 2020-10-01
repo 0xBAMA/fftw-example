@@ -12,7 +12,7 @@ Compilation instructions vary by platform.  On the Mac and other
 UNIX-like systems, you should just be able to type:
 
 ```
-g++ -lfftw3 fftw_example.c
+g++ fftw_example.c -lfftw3
 ```
 
 Enjoy!
